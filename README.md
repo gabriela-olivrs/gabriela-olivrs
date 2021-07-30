@@ -1,6 +1,6 @@
-### Hello!
+###
 
- Estudante de SI
+ - Estudante de SI
   <div>
   <a href="https://github.com/gabriela-olivrs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-olivrs&layout=compact&langs_count=7&theme=dark">
