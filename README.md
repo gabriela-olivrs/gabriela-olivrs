@@ -12,6 +12,8 @@
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
 <img align="right" alt="Rafa-yoda" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
+ 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-olivrs&layout=compact&langs_count=7&theme=dark">
   
   
  ##
