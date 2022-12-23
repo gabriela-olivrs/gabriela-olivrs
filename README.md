@@ -1,7 +1,7 @@
 ## Helo World!
 
  - Information Systems Student
- - Data Developer
+ - Data Developer Jr
  - Python/ DataScience
  - DataEngenner/ Azure Data Factory/ Data Bricks
  - PySpark/ Scala
