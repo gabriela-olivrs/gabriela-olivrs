@@ -1,10 +1,10 @@
 ## Helo World!
 
  - Information Systems Student
- - Data Developer Intern
+ - Data Developer
  - Python/ DataScience
- - DataEngenner
- - PySpark
+ - DataEngenner/ Azure Data Factory/ Data Bricks
+ - PySpark/ Scala
  - GCP
  - MySql/ Postgres/ BigQuery
  - DtaProc
